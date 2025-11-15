@@ -16,7 +16,7 @@ with open(RECIPES_FILE, "r", encoding="utf-8") as f:
 SUBSTITUTIONS = {
     "milk": ["almond milk", "soy milk"],
     "egg": ["flaxseed (1 tbsp + 3 tbsp water)", "mashed banana"],
-    "butter": ["oil", "margarine"],
+    "butter": ["oil", "margarine"]
     "sugar": ["honey", "maple syrup"]
 }
 
