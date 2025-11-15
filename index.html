@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Smart Recipe Generator</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Smart Recipe Generator</h1>
+
+    <section class="input-area">
+      <label>Enter ingredients (comma separated)</label>
+      <input id="ingredients" placeholder="e.g. rice, tomato, onion" />
+
+      <label>Or upload an image of ingredients</label>
+      <input id="image" type="file" accept="image/*" />
+
+      <label>Dietary preference</label>
+      <select id="dietary">
+        <option value="Any">Any</option>
+        <option value="Vegetarian">Vegetarian</option>
+        <option value="Vegan">Vegan</option>
+        <option value="Gluten-Free">Gluten-Free</option>
+        <option value="Non-Vegetarian">Non-Vegetarian</option>
+      </select>
+
+      <div class="buttons">
+        <button id="detectBtn">Detect Ingredients from Image</button>
+        <button id="findBtn">Find Recipes</button>
+      </div>
+    </section>
+
+    <section id="results">
+      <!-- recipes shown here -->
+    </section>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
