@@ -1,0 +1,516 @@
+[
+  {
+    "id": 1,
+    "name": "Vegetable Fried Rice",
+    "ingredients": [
+      "rice",
+      "carrot",
+      "peas",
+      "onion",
+      "garlic",
+      "soy sauce",
+      "oil",
+      "salt"
+    ],
+    "steps": [
+      "Cook rice and let cool.",
+      "Chop vegetables.",
+      "Stir fry vegetables, add rice and soy sauce.",
+      "Serve hot."
+    ],
+    "nutrition": {
+      "calories": 350,
+      "protein": 8
+    },
+    "difficulty": "Easy",
+    "time": 25,
+    "tags": [
+      "Vegetarian",
+      "Gluten-Free",
+      "Any"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Tomato Pasta",
+    "ingredients": [
+      "pasta",
+      "tomato",
+      "garlic",
+      "olive oil",
+      "salt",
+      "basil"
+    ],
+    "steps": [
+      "Boil pasta.",
+      "Make tomato sauce with garlic and basil.",
+      "Mix and serve."
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 12
+    },
+    "difficulty": "Easy",
+    "time": 30,
+    "tags": [
+      "Vegetarian",
+      "Any"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Chicken Curry",
+    "ingredients": [
+      "chicken",
+      "onion",
+      "tomato",
+      "garlic",
+      "spices",
+      "oil",
+      "salt"
+    ],
+    "steps": [
+      "Saut\u00e9 onions and garlic.",
+      "Add spices and tomato.",
+      "Add chicken and simmer until cooked."
+    ],
+    "nutrition": {
+      "calories": 500,
+      "protein": 35
+    },
+    "difficulty": "Medium",
+    "time": 45,
+    "tags": [
+      "Non-Vegetarian",
+      "Gluten-Free",
+      "Any"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Omelette",
+    "ingredients": [
+      "egg",
+      "onion",
+      "tomato",
+      "salt",
+      "pepper",
+      "butter"
+    ],
+    "steps": [
+      "Beat eggs with salt and pepper.",
+      "Cook with chopped onions and tomatoes in butter."
+    ],
+    "nutrition": {
+      "calories": 200,
+      "protein": 14
+    },
+    "difficulty": "Easy",
+    "time": 10,
+    "tags": [
+      "Vegetarian",
+      "Gluten-Free",
+      "Any"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Banana Smoothie",
+    "ingredients": [
+      "banana",
+      "milk",
+      "honey",
+      "yogurt"
+    ],
+    "steps": [
+      "Blend all ingredients until smooth.",
+      "Serve chilled."
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 6
+    },
+    "difficulty": "Easy",
+    "time": 5,
+    "tags": [
+      "Vegetarian",
+      "Any"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Paneer Butter Masala",
+    "ingredients": [
+      "paneer",
+      "tomato",
+      "butter",
+      "cream",
+      "spices",
+      "onion"
+    ],
+    "steps": [
+      "Make tomato-onion gravy.",
+      "Add paneer and cream.",
+      "Simmer and serve with rice/roti."
+    ],
+    "nutrition": {
+      "calories": 450,
+      "protein": 18
+    },
+    "difficulty": "Medium",
+    "time": 40,
+    "tags": [
+      "Vegetarian",
+      "Any"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Aloo Jeera",
+    "ingredients": [
+      "potato",
+      "cumin",
+      "oil",
+      "salt",
+      "turmeric"
+    ],
+    "steps": [
+      "Boil and cube potatoes.",
+      "Tempering with cumin and spices, add potatoes and toss."
+    ],
+    "nutrition": {
+      "calories": 220,
+      "protein": 4
+    },
+    "difficulty": "Easy",
+    "time": 20,
+    "tags": [
+      "Vegan",
+      "Gluten-Free",
+      "Any"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Chickpea Salad",
+    "ingredients": [
+      "chickpeas",
+      "tomato",
+      "onion",
+      "cucumber",
+      "lemon",
+      "salt"
+    ],
+    "steps": [
+      "Mix all chopped ingredients and season with lemon and salt."
+    ],
+    "nutrition": {
+      "calories": 300,
+      "protein": 14
+    },
+    "difficulty": "Easy",
+    "time": 15,
+    "tags": [
+      "Vegan",
+      "Gluten-Free",
+      "Any"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Grilled Cheese Sandwich",
+    "ingredients": [
+      "bread",
+      "cheese",
+      "butter"
+    ],
+    "steps": [
+      "Butter bread, place cheese between slices, grill until golden."
+    ],
+    "nutrition": {
+      "calories": 330,
+      "protein": 12
+    },
+    "difficulty": "Easy",
+    "time": 10,
+    "tags": [
+      "Vegetarian",
+      "Any"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Masoor Dal",
+    "ingredients": [
+      "masoor dal",
+      "tomato",
+      "onion",
+      "garlic",
+      "turmeric",
+      "salt",
+      "oil"
+    ],
+    "steps": [
+      "Cook dal until soft.",
+      "Make tadka with onion and tomato, mix and simmer."
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 16
+    },
+    "difficulty": "Easy",
+    "time": 30,
+    "tags": [
+      "Vegan",
+      "Gluten-Free",
+      "Any"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Pancakes",
+    "ingredients": [
+      "flour",
+      "milk",
+      "egg",
+      "sugar",
+      "butter"
+    ],
+    "steps": [
+      "Mix batter.",
+      "Pour on griddle and cook until golden."
+    ],
+    "nutrition": {
+      "calories": 350,
+      "protein": 8
+    },
+    "difficulty": "Easy",
+    "time": 20,
+    "tags": [
+      "Vegetarian",
+      "Any"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Veg Stir Fry",
+    "ingredients": [
+      "broccoli",
+      "carrot",
+      "pepper",
+      "soy sauce",
+      "garlic",
+      "oil"
+    ],
+    "steps": [
+      "Chop vegetables.",
+      "Stir fry with garlic and soy sauce."
+    ],
+    "nutrition": {
+      "calories": 200,
+      "protein": 6
+    },
+    "difficulty": "Easy",
+    "time": 15,
+    "tags": [
+      "Vegan",
+      "Any"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Egg Fried Rice",
+    "ingredients": [
+      "rice",
+      "egg",
+      "onion",
+      "peas",
+      "soy sauce",
+      "oil"
+    ],
+    "steps": [
+      "Cook rice.",
+      "Scramble eggs and stir fry with rice and vegetables."
+    ],
+    "nutrition": {
+      "calories": 400,
+      "protein": 12
+    },
+    "difficulty": "Easy",
+    "time": 20,
+    "tags": [
+      "Any"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Chicken Sandwich",
+    "ingredients": [
+      "bread",
+      "chicken",
+      "lettuce",
+      "mayonnaise",
+      "tomato"
+    ],
+    "steps": [
+      "Cook chicken, assemble sandwich with veggies and mayo."
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 28
+    },
+    "difficulty": "Easy",
+    "time": 20,
+    "tags": [
+      "Non-Vegetarian",
+      "Any"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Greek Yogurt Bowl",
+    "ingredients": [
+      "yogurt",
+      "honey",
+      "banana",
+      "nuts"
+    ],
+    "steps": [
+      "Assemble ingredients in a bowl and serve."
+    ],
+    "nutrition": {
+      "calories": 250,
+      "protein": 10
+    },
+    "difficulty": "Easy",
+    "time": 5,
+    "tags": [
+      "Vegetarian",
+      "Any"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Salsa Dip",
+    "ingredients": [
+      "tomato",
+      "onion",
+      "cilantro",
+      "lime",
+      "salt"
+    ],
+    "steps": [
+      "Chop and mix all ingredients."
+    ],
+    "nutrition": {
+      "calories": 50,
+      "protein": 1
+    },
+    "difficulty": "Easy",
+    "time": 10,
+    "tags": [
+      "Vegan",
+      "Gluten-Free",
+      "Any"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Beef Stir Fry",
+    "ingredients": [
+      "beef",
+      "soy sauce",
+      "garlic",
+      "pepper",
+      "oil"
+    ],
+    "steps": [
+      "Sear beef, stir fry with sauce and vegetables."
+    ],
+    "nutrition": {
+      "calories": 550,
+      "protein": 40
+    },
+    "difficulty": "Medium",
+    "time": 25,
+    "tags": [
+      "Non-Vegetarian",
+      "Any"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Spinach Soup",
+    "ingredients": [
+      "spinach",
+      "onion",
+      "garlic",
+      "salt",
+      "cream"
+    ],
+    "steps": [
+      "Cook and blend spinach with aromatics, add cream."
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 5
+    },
+    "difficulty": "Easy",
+    "time": 25,
+    "tags": [
+      "Vegetarian",
+      "Any"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Moong Dal Chilla",
+    "ingredients": [
+      "moong dal",
+      "onion",
+      "green chili",
+      "salt",
+      "oil"
+    ],
+    "steps": [
+      "Soak and grind dal, make batter and cook like pancakes."
+    ],
+    "nutrition": {
+      "calories": 210,
+      "protein": 12
+    },
+    "difficulty": "Medium",
+    "time": 30,
+    "tags": [
+      "Vegan",
+      "Gluten-Free",
+      "Any"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Fruit Salad",
+    "ingredients": [
+      "apple",
+      "banana",
+      "orange",
+      "grapes",
+      "lemon",
+      "honey"
+    ],
+    "steps": [
+      "Chop fruits, mix, and season with lemon and honey."
+    ],
+    "nutrition": {
+      "calories": 150,
+      "protein": 2
+    },
+    "difficulty": "Easy",
+    "time": 10,
+    "tags": [
+      "Vegan",
+      "Gluten-Free",
+      "Any"
+    ]
+  }
+]
